@@ -1,0 +1,22 @@
+[
+  {
+    "MaSanPham": 1,
+    "TenSanPham": "Macbook",
+    "GiaGoc": 100,
+    "PhanLoai": "\u0110i\u1EC7n t\u1EED",
+    "Thue": 2,
+    "GiamGia": 0,
+    "PhiVanChuyen": 0,
+    "GiaBan": 102
+  },
+  {
+    "MaSanPham": 2,
+    "TenSanPham": "ao mua",
+    "GiaGoc": 500,
+    "PhanLoai": "Th\u1EDDi trang",
+    "Thue": 0,
+    "GiamGia": 2,
+    "PhiVanChuyen": 0,
+    "GiaBan": 490
+  }
+]
